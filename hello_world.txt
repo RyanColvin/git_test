@@ -1,1 +1,2 @@
 Hi, I'm Paul!
+Making changes in the terminal with nvim instead of VScode, nice!
